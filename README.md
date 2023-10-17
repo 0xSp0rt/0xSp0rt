@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/0xSp0rt/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/0xSp0rt/ActiveDirectoryLab/tree/main)
   - [Wireshark packet capture on iOS devices using Xcode] (project url)
   - 
 <h2>Certifications</h2>

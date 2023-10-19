@@ -1,4 +1,5 @@
 <h1>Hi, I'm Olamide! 
+<a href="https://www.linkedin.com/in/olamide-bolarinwa-431404267">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 

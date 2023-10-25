@@ -5,7 +5,8 @@
 
   - [Active Directory Home Lab](https://github.com/0xSp0rt/ActiveDirectoryLab/tree/main)
   - [Wireshark packet capture on iOS devices using Xcode] (project url)
-  - 
+  - Vulnerability management on MacOS using Nessus
+
 <h2>Certifications</h2>
 
 - CompTia Security plus

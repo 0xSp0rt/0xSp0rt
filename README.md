@@ -5,7 +5,7 @@
 
   - [Active Directory Home Lab](https://github.com/0xSp0rt/ActiveDirectoryLab/tree/main)
   - [Wireshark packet capture on iOS devices using Xcode](https://github.com/0xSp0rt/iOS-Packet-Capture)
-  - [Vulnerability management on Windows 10 host using Nessus](https://github.com/0xSp0rt/Vulnerability-assessment-on-windows-10-host-using-Nessus)
+  - [Vulnerability assessment on Windows 10 host using Nessus](https://github.com/0xSp0rt/Vulnerability-assessment-on-windows-10-host-using-Nessus)
 
 <h2>Certifications</h2>
 

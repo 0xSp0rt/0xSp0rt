@@ -12,7 +12,7 @@
 
 - [CompTia Network plus](https://imgur.com/PMDm8Da.png)
 - [CompTia Security plus](https://imgur.com/tQal7fs.png)
-- Azure Fundamentals (AZ-900)
+- [Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/en-us/OlamideBolarinwa-5543/F033CEF6C31D7D00?sharingId=F5DD47E5CA95CE6B)
 
 <h2> 🤳 Connect with me:</h2>
 

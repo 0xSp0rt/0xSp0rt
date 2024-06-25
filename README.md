@@ -1,12 +1,12 @@
 <h1>Hi, I'm Samuel! 
-<a href="https://www.linkedin.com/in/olamide-bolarinwa-431404267">Cybersecurity and IT support Professional</a>
+<a href="https://www.linkedin.com/in/olamide-bolarinwa-431404267">Cybersecurity and Technical support Professional</a>
 
 <h2>👨‍💻 Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/0xSp0rt/ActiveDirectoryLab/tree/main)
   - [Wireshark packet capture on iOS devices using Xcode](https://github.com/0xSp0rt/iOS-Packet-Capture)
   - [Vulnerability assessment on Windows 10 host using Nessus](https://github.com/0xSp0rt/Vulnerability-assessment-on-windows-10-host-using-Nessus)
-  - 
+  - [Creating Group policy objects and enforcing App restrictions using AD](https://github.com/0xSp0rt/Creating-Group-Policy-Objects)
 
 <h2>Certifications</h2>
 

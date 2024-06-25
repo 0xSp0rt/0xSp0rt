@@ -1,7 +1,7 @@
-<h1>Hi, I'm Olamide! 
-<a href="https://www.linkedin.com/in/olamide-bolarinwa-431404267">Cybersecurity Professional</a>
+<h1>Hi, I'm Samuel! 
+<a href="https://www.linkedin.com/in/olamide-bolarinwa-431404267">Cybersecurity and IT support Professional</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/0xSp0rt/ActiveDirectoryLab/tree/main)
   - [Wireshark packet capture on iOS devices using Xcode](https://github.com/0xSp0rt/iOS-Packet-Capture)

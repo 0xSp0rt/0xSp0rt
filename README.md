@@ -6,11 +6,13 @@
   - [Active Directory Home Lab](https://github.com/0xSp0rt/ActiveDirectoryLab/tree/main)
   - [Wireshark packet capture on iOS devices using Xcode](https://github.com/0xSp0rt/iOS-Packet-Capture)
   - [Vulnerability assessment on Windows 10 host using Nessus](https://github.com/0xSp0rt/Vulnerability-assessment-on-windows-10-host-using-Nessus)
+  - 
 
 <h2>Certifications</h2>
 
 - [CompTia Network plus](https://imgur.com/PMDm8Da.png)
 - [CompTia Security plus](https://imgur.com/tQal7fs.png)
+- Azure Fundamentals (AZ-900)
 
 <h2> 🤳 Connect with me:</h2>
 

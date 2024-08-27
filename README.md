@@ -7,6 +7,7 @@
   - [Wireshark packet capture on iOS devices using Xcode](https://github.com/0xSp0rt/iOS-Packet-Capture)
   - [Vulnerability assessment on Windows 10 host using Nessus](https://github.com/0xSp0rt/Vulnerability-assessment-on-windows-10-host-using-Nessus)
   - [Creating Group policy objects and enforcing App restrictions using AD](https://github.com/0xSp0rt/Creating-Group-Policy-Objects)
+  - [Creating Hyper-V Virtual machines using Powershell scripts]()
 
 <h2>Certifications</h2>
 

@@ -8,6 +8,7 @@
   - [Vulnerability assessment on Windows 10 host using Nessus](https://github.com/0xSp0rt/Vulnerability-assessment-on-windows-10-host-using-Nessus)
   - [Creating Group policy objects and enforcing App restrictions using AD](https://github.com/0xSp0rt/Creating-Group-Policy-Objects)
   - [Creating Hyper-V Virtual machines using Powershell scripts](https://github.com/0xSp0rt/Hyper-v-creation-Powershell-script)
+  - [Qualys Vulnerability Assessment and Remediation on Hyper-V virtual machines](https://github.com/0xSp0rt/Qualys-Vulnerability-Assessment/blob/main/README.md)
 
 <h2>Certifications</h2>
 

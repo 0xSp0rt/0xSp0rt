@@ -8,7 +8,8 @@
   - [Vulnerability assessment on Windows 10 host using Nessus](https://github.com/0xSp0rt/Vulnerability-assessment-on-windows-10-host-using-Nessus)
   - [Creating Group policy objects and enforcing App restrictions using AD](https://github.com/0xSp0rt/Creating-Group-Policy-Objects)
   - [Creating Hyper-V Virtual machines using Powershell scripts](https://github.com/0xSp0rt/Hyper-v-creation-Powershell-script)
-  - [Qualys Vulnerability Assessment and Remediation on Hyper-V virtual machines](https://github.com/0xSp0rt/Qualys-Vulnerability-Assessment/blob/main/README.md)
+  - [Qualys Vulnerability Assessment and Remediation on Hyper-V virtual machines](https://github.com/0xSp0rt/Qualys-Vulnerability-Assessment/blob/main/README.md)<br />
+    This Qualys Vulnerability Assessment project is to automate and streamline vulnerability scanning and management. This tool leverages the Qualys API to perform comprehensive scans, identify security weaknesses, and generate actionable reports on Virtual machines created using Hyper-V. Designed for efficiency, it helps security teams prioritize and remediate vulnerabilities effectively, enhancing system security.
 
 <h2>Certifications</h2>
 

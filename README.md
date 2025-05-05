@@ -15,6 +15,8 @@
 - [CompTia Network plus](https://imgur.com/PMDm8Da.png)
 - [CompTia Security plus](https://imgur.com/tQal7fs.png)
 - [Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/en-us/OlamideBolarinwa-5543/F033CEF6C31D7D00?sharingId=F5DD47E5CA95CE6B)
+- [ISC2 Certified in Cybersecurity](https://www.credly.com/badges/0d9e2cb7-4ffc-45ae-b24a-fc9e0eb67939/public_url)
+
 
 <h2> 🤳 Connect with me:</h2>
 

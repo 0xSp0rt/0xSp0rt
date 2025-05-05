@@ -7,7 +7,8 @@
   - [Wireshark packet capture on iOS devices using Xcode](https://github.com/0xSp0rt/iOS-Packet-Capture)
   - [Vulnerability assessment on Windows 10 host using Nessus](https://github.com/0xSp0rt/Vulnerability-assessment-on-windows-10-host-using-Nessus)
   - [Creating Group policy objects and enforcing App restrictions using AD](https://github.com/0xSp0rt/Creating-Group-Policy-Objects)
-  - [Creating Hyper-V Virtual machines using Powershell scripts](https://github.com/0xSp0rt/Hyper-v-creation-Powershell-script)
+  - [Creating Hyper-V Virtual machines using Powershell scripts](https://github.com/0xSp0rt/Hyper-v-creation-Powershell-script) <br />
+  This PowerShell script project aims to automate the creation and configuration of virtual machines (VMs) on Microsoft Hyper-V. Designed for efficiency and ease of use, it streamlines the process of setting up VMs with customizable parameters such as VM name, memory, CPU, virtual hard disk (VHD), and network settings. Ideal for system administrators and cybersecurity professionals, this tool simplifies lab environment setups, testing, and deployment tasks. The script ensures consistent VM configurations and reduces manual effort, making it a valuable asset for managing Hyper-V environments. <br /><br />
   - [Qualys Vulnerability Assessment and Remediation on Hyper-V virtual machines](https://github.com/0xSp0rt/Qualys-Vulnerability-Assessment/blob/main/README.md)<br />
     This Qualys Vulnerability Assessment project is to automate and streamline vulnerability scanning and management. This tool leverages the Qualys API to perform comprehensive scans, identify security weaknesses, and generate actionable reports on Virtual machines created using Hyper-V. Designed for efficiency, it helps security teams prioritize and remediate vulnerabilities effectively, enhancing system security.
 

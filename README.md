@@ -3,7 +3,8 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/0xSp0rt/ActiveDirectoryLab/tree/main)
+  - [Active Directory Home Lab](https://github.com/0xSp0rt/ActiveDirectoryLab/tree/main) <br />
+This project features a fully built Active Directory lab deployed on Azure Virtual Machines to emulate a real-world enterprise network. It includes setting up a domain controller, configuring OUs, users, groups, and Group Policy Objects (GPOs). The lab is designed to demonstrate AD administration, security best practices, and scalable infrastructure in a cloud environment. <br /><br />
   - [Wireshark packet capture on iOS devices using Xcode](https://github.com/0xSp0rt/iOS-Packet-Capture) <br />
 This project demonstrates how to capture and analyze network traffic from an iOS device using tools like Wireshark and macOS system utilities(Xcode). It covers the setup of a secure environment, traffic redirection via USB, and interpretation of packets for security analysis or troubleshooting purposes. <br /><br />
   - [Vulnerability assessment on Windows 10 host using Nessus](https://github.com/0xSp0rt/Vulnerability-assessment-on-windows-10-host-using-Nessus)<br />
